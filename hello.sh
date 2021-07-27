@@ -2,4 +2,3 @@
 clear;
 echo "Hello World";
 exit;
-echo ""
